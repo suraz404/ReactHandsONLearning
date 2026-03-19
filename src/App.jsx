@@ -9,6 +9,7 @@ const App = () => {
       <SquareBox color="blue" />
       <SquareBox color="green" />
       <SquareBox color="yellow" />
+      <SquareBox color="purple" />
     </div>
   );
 };
